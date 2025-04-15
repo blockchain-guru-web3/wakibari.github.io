@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
+# AI Event Plan Assiatant
+- project: Event Planning AI
   role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2024 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: A decentralized (Base Blockcahin) platform that leverages blockchain technology and smart contracts to create an AI-powered event assistant. This assistant can potentially automate various aspects of event planning, such as: Venue booking, Guest management, Itinerary creation,Budgeting and payment processing. By utilizing blockchain, the project aims to provide a secure, transparent, and tamper-proof way to manage events, ensuring that all stakeholders have a clear understanding of the event's progress and status. The project's AI component is expected to learn from user interactions and improve its planning capabilities over time.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Unitrade
+- project: UniTrade (Hedera Blockchain)
+  role: Co-Founder & Programmer, Project Manager
+  duration: 2023 &mdash; 2024
+  # url: "#"
+  description: UniTrade is an innovative decentralized e-commerce platform that harnesses the power of blockchain technology to address these challenges. Our platform aims to revolutionize the e-commerce industry by providing a transparent, secure, and user-friendly marketplace for both buyers and sellers.
+
+# ShambaTrak
+- project: ShambaTrak
+  role: Co-Founder & Smart Contracts Developer (Cartesi Blockchain)
+  duration: 2024 &mdash; 2024
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+
+# Kiboko DAO
+- project: Kiboko DAO
+  role: Pioneer & Developer Community Lead 
+  duration: 2023 &mdash; Present
+  # url: "https://www.kibokodao.org/"
+  description: KibokoDAO is dedicated to empowering Africa's blockchain community through decentralized governance, innovation, and education. Our mission is to create a sustainable, inclusive, and technologically advanced ecosystem that fosters collaboration and growth.

@@ -1,15 +1,21 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: Red Cross 
+  role: Technical Volunteer
+  year: 2023 &mdash; Present
+  url: https://www.redcross.or.ke/
+  summary: network maintenance, encompassing tasks like troubleshooting, hardware/software management, performance optimization, and security measures. 
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
+- organization: Rotary in Action, Nairobi
+  role: Member
+  year: 2022  &mdash; Present
   url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+  summary: network maintenance, encompassing tasks like troubleshooting, hardware/software management, performance optimization, and security measures. 
+
+- organization: Kiboko Decentralized Autonomous Organization
+  role: Developer Relations (Community Security Lead)
+  year: 2023  &mdash; 2024
+  url: https://kibokodao.org 
+  summary: Passionate Cybersecurity advocate with excellent communication and community engagement skills, dedicated to fostering a strong security culture within the Kiboko DAO community. Experienced in developing and delivering security awareness training, creating educational resources, and engaging with community members to promote security best practices. Eager to contribute to the security and resilience of Kiboko DAO by empowering its community with the knowledge and tools necessary to protect its assets and operations.

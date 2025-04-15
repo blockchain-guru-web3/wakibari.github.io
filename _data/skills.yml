@@ -1,11 +1,23 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Smart Contracts Developer
+- skill: Smart Contract Development and Auditing
+  description: Writing and deploying smart contract code in languages like Solidity (for Ethereum) & Rust (for Polkadot), Ensuring contract functionality, security, and scalability, Collaborating with cross-functional teams to integrate contracts with other systems and applications, Debugging and optimizing contract performance, Staying up-to-date with the latest blockchain technologies and best practices.
+
+# Artificial Intelligence
+- skill: AI Developer
+  description: Developing and training AI models using languages like Python, TensorFlow, or PyTorch, Designing and implementing data pipelines to collect, preprocess, and feed data to AI models, Integrating AI models with other systems and applications to enable real-world use cases, Fine-tuning and optimizing model performance to achieve desired outcomes, Staying up-to-date with the latest AI and machine learning technologies and techniques.
+
+# Cybersecurity Volunteer
+- skill: Cybersecurity Practitioner Volunteer
+  description: Implementing and maintaining cybersecurity measures, such as firewalls, intrusion detection systems, and antivirus software, Providing technical support and training to staff on cybersecurity best practices and incident response procedures, Collaborating with the IT department to ensure the security of the organization's networks and systems, Staying up-to-date with the latest cybersecurity threats and technologies to ensure the organization's security posture is current.
+
+# Prompt Engineering 
+- skill: Prompt Engineering
+  description: Crafting and refining input prompts to elicit specific and accurate responses from AI models, Collaborating with data scientists, product managers, and other stakeholders to understand business needs and user requirements, Developing and testing prompt engineering strategies to improve model performance, accuracy, and efficiency, Analyzing and interpreting model outputs to identify areas for prompt improvement, Staying up-to-date with the latest developments in AI, ML, and natural language processing (NLP) to ensure prompt engineering best practices.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Digital Communications strategy
+  description: Digital content and marketing strategy,
 
 # Digital content development and creation
 - skill: Digital content development and creation
